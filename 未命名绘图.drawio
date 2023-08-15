@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T01:30:05.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" version="21.6.8" etag="cVp4_AzrVfamBesraFPD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T01:40:21.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="5c5I0tZOyy2hQ4LklA9Y" version="21.6.8" type="github">
   <diagram name="第 1 页" id="8Q_CCzN2BkOICVWuPZCD">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nkDDra9hpmmG-KaavUwW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkDDra9hpmmG-KaavUwW-1" target="nkDDra9hpmmG-KaavUwW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-19" value="注册/登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nkDDra9hpmmG-KaavUwW-18">
+          <mxGeometry x="-0.3913" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="210" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-10" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="265" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkDDra9hpmmG-KaavUwW-11" target="nkDDra9hpmmG-KaavUwW-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="250" />
+              <mxPoint x="690" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-21" value="验证方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nkDDra9hpmmG-KaavUwW-16">
+          <mxGeometry x="0.103" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-11" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="265" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkDDra9hpmmG-KaavUwW-12" target="nkDDra9hpmmG-KaavUwW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-12" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="265" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nkDDra9hpmmG-KaavUwW-15" value="邮箱/手机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
